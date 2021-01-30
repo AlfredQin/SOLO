@@ -31,3 +31,12 @@ The project involved the implementation of the instance segmentation algorithm d
 * Momentum              : 0.9
 * Weight Decay          : 0.0001
 * Num Epochs            : 40
+
+## Loss Plots
+<p float="left">
+  <img src="./Results/Dice_loss.png" width = 40%/>
+  <img src="./Results/Focal_loss.png" width = 40%/> 
+</p>
+<p float="center">
+  <img src="./Results/Total_loss.png" width = 40%/>
+</p>
