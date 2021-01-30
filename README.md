@@ -34,9 +34,9 @@ The project involved the implementation of the instance segmentation algorithm d
 
 ## Loss Plots
 <p float="left">
-  <img src="./Results/Dice_loss.png" width = 40%/>
-  <img src="./Results/Focal_loss.png" width = 40%/> 
+  <img src="./Results/Dice_loss.png" width = 60%/>
+  <img src="./Results/Focal_loss.png" width = 60%/> 
 </p>
 <p float="center">
-  <img src="./Results/Total_loss.png" width = 40%/>
+  <img src="./Results/Total_loss.png" width = 60%/>
 </p>
