@@ -40,3 +40,8 @@ The project involved the implementation of the instance segmentation algorithm d
 <p float="center">
   <img src="./Results/Total_loss.png" width = 40%/>
 </p>
+
+## Precision vs Recall plot
+<p float="center">
+  <img src="./Results/download.png" width = 40%/>
+</p>
