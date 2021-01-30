@@ -20,5 +20,14 @@ The project involved the implementation of the instance segmentation algorithm d
   <img src="./Results/3_mask.png" width = 40%/> 
 </p>
 
-* Hello
-* Hello2
+## Hyperparameters
+* Focal Loss
+    * alpha = 0.25, gamma = 2
+* Mask Loss weight : 3
+* Category Threshold:  0.2
+* INS Threshold         : 0.5
+* IoU Threshold         : 0.3 
+* Learning rate           : 0.01 , 0.001 @epoch28, 0.0001 @epoch 34
+* Momentum              : 0.9
+* Weight Decay          : 0.0001
+* Num Epochs            : 40
