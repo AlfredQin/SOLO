@@ -8,6 +8,6 @@ The project involved the implementation of the instance segmentation algorithm d
 ![](./Results/3.png)     ![](./Results/3_mask.png)
 
 <p float="left">
-  <img src="./Results/1.png" />
-  <img src="./Results/1_mask.png" /> 
+  <img src="./Results/1.png" width = 50%/>
+  <img src="./Results/1_mask.png" width = 50%/> 
 </p>
