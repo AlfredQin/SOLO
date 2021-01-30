@@ -19,3 +19,6 @@ The project involved the implementation of the instance segmentation algorithm d
   <img src="./Results/3.png" width = 40%/>
   <img src="./Results/3_mask.png" width = 40%/> 
 </p>
+
+* Hello
+* Hello2
